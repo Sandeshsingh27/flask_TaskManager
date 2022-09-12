@@ -8,5 +8,5 @@
 <h2><a href="#">Run Flask</a></h2>
 <hr>
 <h3><a href="#">Run flask for develop</a></h3>
-<h4>$ python webapp/run.py</h4>
+<h4>$ python .\app.py</h4>
 <p>In flask, Default port is 5000</p>
